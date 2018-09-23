@@ -23,9 +23,9 @@ This will help you to capture docker containers logs using Elasticsearch,Logstas
   
 6. Set the indices path as given below
 
-  logstash*
+   logstash*
   
-  Note: Do not select timestamp filter in next step.
+   Note: Do not select timestamp filter in next step.
 
 
    
