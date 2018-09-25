@@ -26,6 +26,7 @@ This will help you to capture docker containers logs using Elasticsearch,Logstas
    logstash*
   
    Note: Do not select timestamp filter in next step.
-
+   
+7. Now go to discovery and add Timestamp and Message Column
 
    
