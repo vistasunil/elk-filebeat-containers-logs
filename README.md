@@ -19,7 +19,7 @@ This will help you to capture docker containers logs using Elasticsearch,Logstas
 
 5. Once the logstash indices are available in step 4 ,login to Kibana portal using below link
 
-   http://<localhost>:5601
+   http://localhost:5601
   
 6. Set the indices path as given below
 
